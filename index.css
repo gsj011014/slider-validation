@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+}
+/* #sliding-block-wrapper{
+	width: 300px;
+	height: 40px;
+	background-color: #e8e8e8;
+	margin: 100px auto;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	display: flex;
+	align-items: center;
+	position: relative;
+	user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+}
+#sliding-block{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 52px;
+	height: 100%;
+	background-color: white;
+	cursor: move;	
+}
+#sliding-block-wrapper .current-progress-bg{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0px;
+	height: 100%;
+	background-color: rgb(218,226,208);
+}
+#sliding-block-wrapper .sliding-block-text{
+	font-size: 12px;
+	text-align: center;
+	margin: 0 auto;
+} */
